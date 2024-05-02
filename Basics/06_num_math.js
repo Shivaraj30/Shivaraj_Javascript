@@ -14,4 +14,8 @@ const otherNumber = 124.878778
 
 const min = 10;
 const max = 20;
-console.log(Math.floor(Math.random() * (max -min +1)) + min)
+// console.log(Math.floor(Math.random() * (max -min +1)) + min)
+
+const anotherNumber =1987.0927
+
+console.log(anotherNumber.toFixed(2))
